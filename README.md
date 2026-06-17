@@ -1,4 +1,4 @@
-# PHOTO TEST ENGINE PUBLIC🚀
+# PHOTO TEST ENGINE (Blanch)🚀
 
 Bem-vindo ao repositório público do **Photo Test Engine**! 
 Este é o espaço oficial para documentação, templates e discussões da comunidade sobre a nossa IDE de *Canvas Apps* baseada no Gemini e Sandpack.

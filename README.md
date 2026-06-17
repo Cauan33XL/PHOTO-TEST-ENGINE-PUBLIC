@@ -74,19 +74,29 @@ Também não deixe de conferir o repositório principal no [GitHub @Cauan33XL](h
 ## 📸 Fotos do Projeto
 
 <div align="center">
-  <img src="assets/img01.png" width="48%" />
-  <img src="assets/img02.png" width="48%" />
-  <img src="assets/img03.png" width="48%" />
-  <img src="assets/img04.png" width="48%" />
-  <img src="assets/img05.png" width="48%" />
-  <img src="assets/img06.png" width="48%" />
-  <img src="assets/img07.png" width="48%" />
-  <img src="assets/img08.png" width="48%" />
-  <img src="assets/img09.png" width="48%" />
-  <img src="assets/img10.png" width="48%" />
+  <img src="assets/img01.png" width="100%" />
+  <br/><br/>
+  <img src="assets/img02.png" width="100%" />
+  <br/><br/>
+  <img src="assets/img03.png" width="100%" />
+  <br/><br/>
+  <img src="assets/img04.png" width="100%" />
+  <br/><br/>
+  <img src="assets/img05.png" width="100%" />
+  <br/><br/>
+  <img src="assets/img06.png" width="100%" />
+  <br/><br/>
+  <img src="assets/img07.png" width="100%" />
+  <br/><br/>
+  <img src="assets/img08.png" width="100%" />
+  <br/><br/>
+  <img src="assets/img09.png" width="100%" />
+  <br/><br/>
+  <img src="assets/img10.png" width="100%" />
 </div>
 
 ### Licença
+Este projeto é licenciado sob a **GPLv3** (GNU General Public License v3.0).
 Este projeto de documentação e seus templates são públicos para ajudar a comunidade. A Engine central segue as políticas autorais da equipe. Divirta-se criando Canvas Apps incríveis! 🎨
 
 ---

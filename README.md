@@ -1,5 +1,9 @@
 # PHOTO TEST ENGINE (Blanch)🚀
 
+<div align="center">
+  <img src="assets/logo.png" alt="Photo Test Engine Logo" width="250"/>
+</div>
+
 Bem-vindo ao repositório público do **Photo Test Engine**! 
 Este é o espaço oficial para documentação, templates e discussões da comunidade sobre a nossa IDE de *Canvas Apps* baseada no Gemini e Sandpack.
 

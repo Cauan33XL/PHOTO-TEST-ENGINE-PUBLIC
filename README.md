@@ -1,9 +1,11 @@
-# PHOTO TEST ENGINE 🚀
+# PHOTO TEST ENGINE PUBLIC🚀
 
 Bem-vindo ao repositório público do **Photo Test Engine**! 
 Este é o espaço oficial para documentação, templates e discussões da comunidade sobre a nossa IDE de *Canvas Apps* baseada no Gemini e Sandpack.
 
 > 🌟 **Experimente a versão completa e funcional:** [photo-test-engine.vercel.app](https://photo-test-engine.vercel.app/)
+> 
+> ⚠️ **Aviso Importante:** O código presente neste repositório público é uma versão adaptada (uma *branch* voltada para a interface) e **não** representa o código-fonte completo ou original utilizado no site oficial.
 
 ---
 
@@ -25,7 +27,6 @@ Seu principal objetivo é facilitar a criação de interfaces modernas sem a nec
   * Baixe **apenas o componente** que você está visualizando nos formatos `TSX`, `JSX`, `TXT` ou `MD`. Perfeito para mandar para um amigo!
 * 🛡️ **Estrutura de Pastas de Segurança**:
   * `/LEGADO/`: Arquivos base que formam o "Core" do ambiente. Apenas leitura.
-  * `/AUTORAL/`: Espaço isolado (LocalHost) focado para o criador testar ideias ocultas no momento de deploy.
   * `/CRIADO/` e `/MODIFICADO/`: Seu playground livre. Toda a experimentação vai aqui.
 
 ---

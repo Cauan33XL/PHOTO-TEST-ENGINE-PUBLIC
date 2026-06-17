@@ -1,7 +1,7 @@
 # PHOTO TEST ENGINE (Blanch)🚀
 
 <div align="center">
-  <img src="assets/logo.png" alt="Photo Test Engine Logo" width="250"/>
+  <img src="assets/logo.png" alt="Photo Test Engine Logo" width="450"/>
 </div>
 
 Bem-vindo ao repositório público do **Photo Test Engine**! 
